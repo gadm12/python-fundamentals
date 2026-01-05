@@ -9,6 +9,7 @@ A documented archive of my software engineering journey, tracking my progression
 | 01  | [Hello World](./01_hello_world.py)                     | Basic syntax, `print()` function, setup            |
 | 02  | [Favorite Fruit](./02_favorite_fruit.py)               | User Input `input()`, Variables, String formatting |
 | 03  | [Personalized Greeting](./03_personalized_greeting.py) | `input()` function, Variables, Basic Output        |
+| 04  | [Input & String Formatting](./04_input_formatting.py)  | `input()`, F-strings vs. Concatenation             |
 
 ---
 

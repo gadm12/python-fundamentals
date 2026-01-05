@@ -1,2 +1,2 @@
 user_input = input("what is your name? ")
-print("Hello,", user_input)
+print(f"Hello, {user_input}")
