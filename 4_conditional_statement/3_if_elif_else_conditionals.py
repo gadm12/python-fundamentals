@@ -1,4 +1,4 @@
-enemy_level = 7
+enemy_level = 5
 
 
 if enemy_level >= 1 and enemy_level <= 3:
