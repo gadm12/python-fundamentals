@@ -1,3 +1,3 @@
 inventory = ["Sword", "Broken Shield", "Potion"]
 inventory[1] = "Iron Shield"
-print(inventory)
+print(f"Updated Inventory: {inventory}")
