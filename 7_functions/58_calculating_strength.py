@@ -7,4 +7,3 @@ print(calculate_strength(3))
 
 char_str = calculate_strength(3)
 print(char_str)
-print(type(char_str))
